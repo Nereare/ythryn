@@ -1,0 +1,19 @@
+{
+  "name": "ythryn-spires",
+  "description": "An Ythryn spire explorer tool",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Igor Padoim",
+      "email": "igorpadoim@gmail.com",
+      "web": "https://nereare.com/"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/Nereare/ythryn-spires/issues"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "bulma": "^0.9.4"
+  }
+}
